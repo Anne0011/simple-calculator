@@ -7,3 +7,9 @@ C:\Users\Tammy\Documents\Visual Studio 2015\Projects\NewProjectsAnne\ExpenseItNe
 C:\Users\Tammy\Documents\GitHub\simple-calculator\bin\Debug\simpleCalculator1.exe.config
 C:\Users\Tammy\Documents\GitHub\simple-calculator\obj\Debug\simpleCalculator1.exe
 C:\Users\Tammy\Documents\GitHub\simple-calculator\obj\Debug\simpleCalculator1.pdb
+C:\Users\tink0\OneDrive\Documents\GitHub\simple-calculator\bin\Debug\simpleCalculator1.exe.config
+C:\Users\tink0\OneDrive\Documents\GitHub\simple-calculator\bin\Debug\simpleCalculator1.exe
+C:\Users\tink0\OneDrive\Documents\GitHub\simple-calculator\bin\Debug\simpleCalculator1.pdb
+C:\Users\tink0\OneDrive\Documents\GitHub\simple-calculator\obj\Debug\simpleCalculator1.exe
+C:\Users\tink0\OneDrive\Documents\GitHub\simple-calculator\obj\Debug\simpleCalculator1.pdb
+C:\Users\tink0\OneDrive\Documents\GitHub\simple-calculator\obj\Debug\simpleCalculator1.csprojResolveAssemblyReference.cache
