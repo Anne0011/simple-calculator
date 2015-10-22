@@ -59,11 +59,6 @@ namespace simpleCalculator1
             }
             return stringArray;
         }
-        public int[] stringArraytoIntArray(string[] stringr)
-
-        {
-            return new int[2];
-        }
 
     }
 }
